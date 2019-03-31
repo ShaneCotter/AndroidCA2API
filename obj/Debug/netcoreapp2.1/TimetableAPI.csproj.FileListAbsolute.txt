@@ -1,0 +1,15 @@
+C:\Users\Eileen\source\repos\TimetableAPI\TimetableAPI\bin\Debug\netcoreapp2.1\TimetableAPI.deps.json
+C:\Users\Eileen\source\repos\TimetableAPI\TimetableAPI\bin\Debug\netcoreapp2.1\TimetableAPI.runtimeconfig.json
+C:\Users\Eileen\source\repos\TimetableAPI\TimetableAPI\bin\Debug\netcoreapp2.1\TimetableAPI.runtimeconfig.dev.json
+C:\Users\Eileen\source\repos\TimetableAPI\TimetableAPI\bin\Debug\netcoreapp2.1\TimetableAPI.dll
+C:\Users\Eileen\source\repos\TimetableAPI\TimetableAPI\bin\Debug\netcoreapp2.1\TimetableAPI.pdb
+C:\Users\Eileen\source\repos\TimetableAPI\TimetableAPI\obj\Debug\netcoreapp2.1\TimetableAPI.csprojAssemblyReference.cache
+C:\Users\Eileen\source\repos\TimetableAPI\TimetableAPI\obj\Debug\netcoreapp2.1\TimetableAPI.csproj.CoreCompileInputs.cache
+C:\Users\Eileen\source\repos\TimetableAPI\TimetableAPI\obj\Debug\netcoreapp2.1\TimetableAPI.RazorAssemblyInfo.cache
+C:\Users\Eileen\source\repos\TimetableAPI\TimetableAPI\obj\Debug\netcoreapp2.1\TimetableAPI.RazorAssemblyInfo.cs
+C:\Users\Eileen\source\repos\TimetableAPI\TimetableAPI\obj\Debug\netcoreapp2.1\TimetableAPI.AssemblyInfoInputs.cache
+C:\Users\Eileen\source\repos\TimetableAPI\TimetableAPI\obj\Debug\netcoreapp2.1\TimetableAPI.AssemblyInfo.cs
+C:\Users\Eileen\source\repos\TimetableAPI\TimetableAPI\obj\Debug\netcoreapp2.1\TimetableAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Eileen\source\repos\TimetableAPI\TimetableAPI\obj\Debug\netcoreapp2.1\TimetableAPI.dll
+C:\Users\Eileen\source\repos\TimetableAPI\TimetableAPI\obj\Debug\netcoreapp2.1\TimetableAPI.pdb
+C:\Users\Eileen\source\repos\TimetableAPI\TimetableAPI\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
